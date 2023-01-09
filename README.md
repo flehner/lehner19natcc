@@ -13,5 +13,5 @@ Main scripts:
 
 Data needs: 
 - CMIP5: Monthly mean 'tas', 'pr', 'mrros' from CMIP5 (not provided here, but available in its raw form at https://esgf-node.llnl.gov/search/cmip5/)
-- Observations: 
-- Shapefiles: 
+- Observations: forthcoming
+- Shapefiles: forthcoming
