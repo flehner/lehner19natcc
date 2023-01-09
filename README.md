@@ -3,8 +3,8 @@ Collection of scripts to produce figures in Lehner et al., 2019, Nature Climate 
 
 Author: Flavio Lehner, 2019, flehner@ucar.edu or flavio.lehner@cornell.edu
 
-Requirements: Matlab and NCL
-Non-built-in Matlab functions are provided in the respective folders where needed
+Requirements: 
+- Matlab and NCL. Non-built-in Matlab functions are provided in the respective folders where needed
 
 Main scripts:
 - runoff_efficiency_paper_tas_pr_ro_re_maps_for_sharing.ncl: NCL script to create Fig. 1
